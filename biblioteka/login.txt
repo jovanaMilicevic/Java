@@ -1,0 +1,6 @@
+boki,boki,Boki,Bojan,adresa,broj,1
+kris,kris123,Kristina,Popovic,BG 123,123,2
+dis,dis2,Dis,Lidl,12sd,4567,4
+rty,rty,rty,rty,rty,456,6
+asd,asd,asd,asd,asd,123,7
+joks23x,joks12345,Jovana,Jovanovic,Beogradska ,0615555555,10
